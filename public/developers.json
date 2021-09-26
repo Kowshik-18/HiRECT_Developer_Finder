@@ -1,0 +1,92 @@
+[
+  {
+    "key": 1,
+    "name": "Ms Lillian Frazier",
+    "email": "lillian.frazier@example.com",
+    "img": "https://randomuser.me/api/portraits/women/42.jpg",
+    "devName": "Junior Web Developer",
+    "salary": 500,
+    "Age": 23
+  },
+  {
+    "key": 2,
+    "name": "Mr Onal Abaci",
+    "email": "onal.abaci@example.com",
+    "img": "https://randomuser.me/api/portraits/men/53.jpg",
+    "devName": "Senior Full Stack Developer",
+    "salary": 800,
+    "Age": 29
+  },
+  {
+    "key": 3,
+    "name": "Mr Matis Seppanen",
+    "email": "matias.seppanen@example.com",
+    "img": "https://randomuser.me/api/portraits/men/99.jpg",
+    "devName": "Junior Software Developer",
+    "salary": 650,
+    "Age": 25
+  },
+  {
+    "key": 4,
+    "name": "Miss Rachel Brewer",
+    "email": "rachel.brewer@example.com",
+    "img": "https://randomuser.me/api/portraits/women/86.jpg",
+    "devName": "Java Developer",
+    "salary": 820,
+    "Age": 25
+  },
+  {
+    "key": 5,
+    "name": "Mr Thiago Francois",
+    "email": "thiago.francois@example.com",
+    "img": "https://randomuser.me/api/portraits/men/24.jpg",
+    "devName": "Senior Web Developer",
+    "salary": 725,
+    "Age": 30
+  },
+  {
+    "key": 6,
+    "name": "Mr Andrew Willians",
+    "email": "andrew.williams@example.com",
+    "img": "https://randomuser.me/api/portraits/men/7.jpg",
+    "devName": "Junior Python Developer",
+    "salary": 400,
+    "Age": 22
+  },
+  {
+    "key": 7,
+    "name": "Mr Terry Walters",
+    "email": "terry.walters@example.com",
+    "img": "https://randomuser.me/api/portraits/men/84.jpg",
+    "devName": "Junior Web Developer",
+    "salary": 550,
+    "Age": 21
+  },
+  {
+    "key": 8,
+    "name": "Mr Noah Madsen",
+    "email": "noah.madsen@example.com",
+    "img": "https://randomuser.me/api/portraits/men/54.jpg",
+    "devName": "Full Stack Developer",
+    "salary": 900,
+    "Age": 31
+  },
+  {
+    "key": 9,
+    "name": "Miss Amber Barrett",
+    "email": "amber.barrett@example.com",
+    "img": "https://randomuser.me/api/portraits/women/56.jpg",
+    "devName": "Flutter Junior Developer",
+    "salary": 450,
+    "Age": 27
+  },
+  {
+    "key": 10,
+    "name": "Mr Oliver Wilson",
+    "email": "oliver.wilson@example.com",
+    "img": "https://randomuser.me/api/portraits/men/84.jpg",
+    "devName": "Junior Python Developer",
+    "salary": 330,
+    "Age": 24
+  }
+]
