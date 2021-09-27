@@ -1,0 +1,28 @@
+.cart-container {
+  width: 400px;
+  text-align: center;
+  color: aliceblue;
+  background-color: #3d5a80;
+  padding: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.devo {
+  background-color: #ee6c4d;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+.cart-container h5 {
+  font-size: 35px;
+}
+
+.developer-cart {
+  background-color: #e0fbfc;
+  color: #3d5a80;
+  gap: 10px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}

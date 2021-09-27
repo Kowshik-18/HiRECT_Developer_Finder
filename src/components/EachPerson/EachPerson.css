@@ -1,0 +1,41 @@
+.button-cart {
+  background-color: #3d5a80;
+  color: #e0fbfc;
+  padding: 10px;
+  width: 120px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.button-cart:hover {
+  color: #ee6c4d;
+}
+
+.person-card {
+  background-color: #e0fbfc;
+  border-radius: 10px !important;
+}
+
+.name {
+  color: #e0fbfc;
+  background-color: #ee6c4d;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.person-card p {
+  font-size: 18px;
+}
+
+.all-icon {
+  gap: 10px;
+}
+
+.all-icon a {
+  color: #293241;
+  font-size: 32px;
+}
+
+.all-icon a:hover {
+  color: #ee6c4d;
+}

@@ -1,0 +1,21 @@
+.Header-container h1 {
+  color: #293241;
+  font-size: 100px;
+}
+
+.search-button {
+  background-color: #3d5a80;
+  color: #e0fbfc;
+}
+
+.important-info {
+  color: #e0fbfc;
+  height: 100px;
+  background-color: #293241;
+  background-size: cover;
+  clip-path: polygon(100% 0, 86% 50%, 100% 100%, 0 100%, 16% 51%, 0 0);
+}
+
+.navbar-brand {
+  font-size: 50px;
+}
